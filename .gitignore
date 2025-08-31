@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/server/.vs
+/server/obj/Docker
+/server/src/UrlShortener.Api/obj
+/server/src/UrlShortener.Data/obj
+/server/src/UrlShortener.Services/obj
