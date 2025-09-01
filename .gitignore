@@ -7,3 +7,12 @@
 /server/src/UrlShortener.Api/obj
 /server/src/UrlShortener.Data/obj
 /server/src/UrlShortener.Services/obj
+/server/bin/Debug
+/server/obj/Debug
+/server/src/UrlShortener.Api/bin/Debug/net9.0
+/server/src/UrlShortener.DataAccess/bin/Debug/net9.0
+/server/src/UrlShortener.DataAccess/obj/Debug/net9.0
+/server/src/UrlShortener.DataAccess/obj
+/server/src/UrlShortener.Domain/bin/Debug/net9.0
+/server/src/UrlShortener.Domain/obj
+/server/src/UrlShortener.Services/bin/Debug/net9.0
